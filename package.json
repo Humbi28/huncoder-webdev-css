@@ -1,0 +1,26 @@
+{
+  "name": "huncoder-webdev-css",
+  "displayName": "Huncoder Webdev CSS",
+  "publisher": "HunCoder",
+  "description": "CSS kitöltő magyar parancsokkal",
+  "version": "0.0.6",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Humbi28/huncoder-webdev-css.git"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

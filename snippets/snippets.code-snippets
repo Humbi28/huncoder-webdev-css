@@ -1,0 +1,162 @@
+{
+    /* HÁTTÉR */
+    "Háttér beállítása": {
+        "prefix": "!hatter",
+        "body": [
+            "background: ;"
+        ],
+        "description": "Háttér beállítása"
+    },
+    "Háttér szín beállítása": {
+        "prefix": "!hatter-szin",
+        "body": [
+            "background-color: ;"
+        ],
+        "description": "Háttér szín beállítása"
+    },
+    "Háttér kép beállítása": {
+        "prefix": "!hatterkep",
+        "body": [
+            "background-image: url('kep.png');"
+        ],
+        "description": "Háttér kép beállítása"
+    },
+    /* BETŰK */
+    "Betűméret beállítása": {
+        "prefix": "!betumeret",
+        "body": [
+            "font-size: ;"
+        ],
+        "description": "Betűméret beállítása"
+    },
+    "Betűtípus beállítása": {
+        "prefix": "!betutipus",
+        "body": [
+            "font-family: ;"
+        ],
+        "description": "Betűtípus beállítása"
+    },
+    /* KÖRVONAL */
+    "Körvonal beállítása": {
+        "prefix": "!korvonal",
+        "body": [
+            "border: vastagság stílus szín;"
+        ],
+        "description": "Körvonal beállítása"
+    },
+    "Körvonal kerekítése": {
+        "prefix": "!korvonal-kerekites",
+        "body": [
+            "border-radius: ;"
+        ],
+        "description": "Körvonal kerekítése"
+    },
+    "Bal körvonal beállítása": {
+        "prefix": "!korvonal-bal",
+        "body": [
+            "border-left: vastagság stílus szín;"
+        ],
+        "description": "Bal körvonal beállítása"
+    },
+    "Jobb körvonal beállítása": {
+        "prefix": "!korvonal-jobb",
+        "body": [
+            "border-right: vastagság stílus szín;"
+        ],
+        "description": "Jobb körvonal beállítása"
+    },
+    "Fenti körvonal beállítása": {
+        "prefix": "!korvonal-fent",
+        "body": [
+            "border-top: vastagság stílus szín;"
+        ],
+        "description": "Fenti körvonal beállítása"
+    },
+    "Lenti körvonal beállítása": {
+        "prefix": "!korvonal-lent",
+        "body": [
+            "border-bottom: vastagság stílus szín;"
+        ],
+        "description": "Lenti körvonal beállítása"
+    },
+    /* LEBEGTETÉS */
+    "Balra lebegtetés": {
+        "prefix": "!lebegtetes-bal",
+        "body": [
+            "float: left;"
+        ],
+        "description": "Balra lebegtetés"
+    },
+    "Jobbra lebegtetés": {
+        "prefix": "!lebegtetes-jobb",
+        "body": [
+            "float: right;"
+        ],
+        "description": "Jobbra lebegtetés"
+    },
+    /* MARGIN */
+    "Margó beállítása": {
+        "prefix": "!margo",
+        "body": [
+            "margin: ;"
+        ],
+        "description": "Margó beállítása"
+    },
+    "Bal margó beállítása": {
+        "prefix": "!margo-bal",
+        "body": [
+            "margin-left: ;"
+        ],
+        "description": "Bal margó beállítása"
+    },
+    "Jobb margó beállítása": {
+        "prefix": "!margo-jobb",
+        "body": [
+            "margin-right: ;"
+        ],
+        "description": "Jobb margó beállítása"
+    },
+    "Fenti margó beállítása": {
+        "prefix": "!margo-fent",
+        "body": [
+            "margin-top: ;"
+        ],
+        "description": "Fenti margó beállítása"
+    },
+    "Lenti margó beállítása": {
+        "prefix": "!margo-lent",
+        "body": [
+            "margin-bottom: ;"
+        ],
+        "description": "Lenti margó beállítása"
+    },
+    /* SZÉLESSÉG, MAGASSÁG */
+    "Maximum szélesség beállítása": {
+        "prefix": "!max-szelesseg",
+        "body": [
+            "max-width: ;"
+        ],
+        "description": "Maximum szélesség beállítása"
+    },
+    "Maximum magasság beállítása": {
+        "prefix": "!max-magassag",
+        "body": [
+            "max-height: ;"
+        ],
+        "description": "Maximum magasság beállítása"
+    },
+    "Magasság beállítása": {
+        "prefix": "!magassag",
+        "body": [
+            "height: ;"
+        ],
+        "description": "Magasság beállítása"
+    },
+    "Szélesség beállítása": {
+        "prefix": "!szelesseg",
+        "body": [
+            "width: ;"
+        ],
+        "description": "Szélesség beállítása"
+    },
+}
